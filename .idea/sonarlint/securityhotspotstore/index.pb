@@ -13,3 +13,7 @@ W
 +contracts/stable-time-loop-maintenance.clar,2/6/2649c6ff04bbb4ec3419be022f948accdedd95ee
 Z
 *tests/stable-time-loop-maintenance.test.ts,a/f/aff9265cbc865bede969fbfee4f51677f6e52ec7
+Z
+*contracts/temporal-anomaly-resolution.clar,9/8/98cf870a26e7469004cd512ac859a1a2449d7d16
+Y
+)tests/temporal-anomaly-resolution.test.ts,d/0/d0773df64575d56f31bed3beaf8c28658950d560
